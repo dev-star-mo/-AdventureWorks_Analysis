@@ -17,7 +17,7 @@ Margin % by Product Category.
 *   *Insight:* While "Bikes" generate the vast majority of total revenue, "Accessories" yield 
 the highest profit margins. 
 <!-- PLACEHOLDER FOR PAGE 1 IMAGE --> 
-![Executive Dashboard Summary](Images/Executive Summary.PNG) 
+![Executive Dashboard Summary](https://github.com/dev-star-mo/-AdventureWorks_Analysis/blob/main/Images/Executive%20Summary.PNG) 
 *Caption: Executive Overview page showing revenue trends, product profitability, and year
 over-year growth.* --- 
 ### 2. Detailed Insights 
@@ -34,7 +34,7 @@ Previous Year across all months, clearly highlighting seasonal growth.
 Quantity, and Profit Margin % by Customer Education Level (e.g., Bachelors, Graduate Degree, 
 Partial College). 
 <!-- PLACEHOLDER FOR PAGE 2 IMAGE --> 
-![Detailed Insights Dashboard](INSERT_IMAGE_LINK_HERE) 
+![Detailed Insights Dashboard](https://github.com/dev-star-mo/-AdventureWorks_Analysis/blob/main/Images/Detailed%20Insights.PNG) 
 *Caption: Detailed Insights page showing operational volume, seasonal trends, and customer 
 demographics.* 
 ## Interactive Elements & Navigation 
@@ -52,7 +52,7 @@ Year (YoY) growth and Previous Year metrics.
 *   **Measure Branching:** Foundational measures (Total Cost, Total Revenue) are branched 
 into advanced analytics (Profit Margin %, YoY Growth). 
 <!-- PLACEHOLDER FOR DATA MODEL IMAGE --> 
-![Data Model Schema](INSERT_IMAGE_LINK_HERE) 
+![Data Model Schema](https://github.com/dev-star-mo/-AdventureWorks_Analysis/blob/main/Images/Data%20Model.PNG) 
 *Caption: Star Schema data model featuring active/inactive relationships and the central fact 
 tables.* 
 ## How to Use This Report 
