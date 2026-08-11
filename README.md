@@ -17,7 +17,7 @@ Margin % by Product Category.
 *   *Insight:* While "Bikes" generate the vast majority of total revenue, "Accessories" yield 
 the highest profit margins. 
 <!-- PLACEHOLDER FOR PAGE 1 IMAGE --> 
-![Executive Dashboard Summary](INSERT_IMAGE_LINK_HERE) 
+![Executive Dashboard Summary](Images/Executive Summary.PNG) 
 *Caption: Executive Overview page showing revenue trends, product profitability, and year
 over-year growth.* --- 
 ### 2. Detailed Insights 
